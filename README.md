@@ -1,0 +1,2 @@
+# Aji
+Simply project 
